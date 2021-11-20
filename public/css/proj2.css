@@ -82,16 +82,27 @@ body{
 
 
 /* images */
+.project2 .dis-mex{
+    background-image: url("../images/mex2.png");
+    background-size: 100% 100%;
+    background-position: center;
+}
+
+.project2 .dis-mex:hover{
+    background-image: url("../images/mex1.png");
+    background-size: 100% 100%;
+    background-position: center;
+
+}
 .project2 .dis-laravel{
     background-image: url("../images/pet1.png");
-    background-size: cover;
+    background-size: 100% 100%;
     background-position: center;
-   
 }
 
 .project2 .dis-laravel:hover{
     background-image: url("../images/pet2.png");
-    background-size: cover;
+    background-size: 100% 100%;
     background-position: center;
    
 }
@@ -99,47 +110,47 @@ body{
 
 .project2 .dis-ecommerce{
     background-image: url("../images/ques1.png");
-    background-size: cover;
+    background-size: 100% 100%;
     background-position: center;
     
 } 
 
 .project2 .dis-ecommerce:hover{
     background-image: url("../images/ques2.png");
-    background-size: cover;
+    background-size: 100% 100%;
     background-position: center;
     
 } 
  .project2 .dis-events{
     background-image: url("../images/koa1.png");
-    background-size: cover;
+     background-size: 100% 100%;
     background-position: center;
 
  }
  .project2 .dis-events:hover{
     background-image: url("../images/koa2.png");
-    background-size: cover;
+     background-size: 100% 100%;
     background-position: center;
 
  }
 .dis-school{
     background-image: url("../images/school1.png");
-    background-size: cover;
+    background-size: 100% 100%;
     background-position: center;
 }
 .dis-school:hover{
     background-image: url("../images/school3.png");
-    background-size: cover;
+    background-size: 100% 100%;
     background-position: center;
 }
 .dis-barber{
     background-image: url("../images/barbar2.png");
-    background-size: cover;
+    background-size: 100% 100%;
     background-position: center;
 }
 .dis-barber:hover{
     background-image: url("../images/barber1.png");
-    background-size: cover;
+    background-size: 100% 100%;
     background-position: center;
 }
 
@@ -200,9 +211,11 @@ body{
     .project2 .display{
         margin: .5rem;
 
+
     }
     .project2 .tools {
-        width: 90%;
+        width: auto;
+        margin: .5rem auto;
     }
 
     
