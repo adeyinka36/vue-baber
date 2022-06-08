@@ -95,13 +95,13 @@ body{
 
 }
 .project2 .dis-laravel{
-    background-image: url("../images/pet1.png");
+    background-image: url("../images/wedding.png");
     background-size: 100% 100%;
     background-position: center;
 }
 
 .project2 .dis-laravel:hover{
-    background-image: url("../images/pet2.png");
+    background-image: url("../images/wedding-2.png");
     background-size: 100% 100%;
     background-position: center;
    
@@ -134,22 +134,22 @@ body{
 
  }
 .dis-school{
-    background-image: url("../images/school1.png");
+    background-image: url("../images/library.png");
     background-size: 100% 100%;
     background-position: center;
 }
 .dis-school:hover{
-    background-image: url("../images/school3.png");
+    background-image: url("../images/library-2.png");
     background-size: 100% 100%;
     background-position: center;
 }
 .dis-barber{
-    background-image: url("../images/barbar2.png");
+    background-image: url("../images/concert.png");
     background-size: 100% 100%;
     background-position: center;
 }
 .dis-barber:hover{
-    background-image: url("../images/barber1.png");
+    background-image: url("../images/concert-2.png");
     background-size: 100% 100%;
     background-position: center;
 }
